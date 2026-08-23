@@ -7,9 +7,9 @@
 
 A statically-typed bytecode-interpreted programming language in C with zero dependencies.
 
-[Bytecode Interpretation From Scratch in C](https://github.com/williamalexakis/writings/blob/main/bytecode-interpretation-from-scratch-in-c.md)
+[Bytecode Interpretation From Scratch in C](https://williamalexakis.github.io/essays/bytecode-interpretation-from-scratch-in-c/)
 
-[Chunk-Based File Reading in C](https://github.com/williamalexakis/writings/blob/main/chunk-based-file-reading-in-c.md)
+[Chunk-Based File Reading in C](https://williamalexakis.github.io/essays/chunk-based-file-reading-in-c/)
 
 ## Building
 
